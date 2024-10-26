@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e9056b5045144913afc6d64be627f98d/artifacts
+end_time: 1729935179054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9056b5045144913afc6d64be627f98d
+run_name: merciful-croc-618
+run_uuid: e9056b5045144913afc6d64be627f98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729935178865
+status: 4
+tags: []
+user_id: SKrishnamurthy7

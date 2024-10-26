@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1c4cdf93d304b8994613189e151d69e/artifacts
+end_time: 1729935408962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c4cdf93d304b8994613189e151d69e
+run_name: sedate-stork-867
+run_uuid: d1c4cdf93d304b8994613189e151d69e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729935385962
+status: 3
+tags: []
+user_id: SKrishnamurthy7

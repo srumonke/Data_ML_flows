@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8596de2fa9a45918eaa2dfebdfb1f8e/artifacts
+end_time: 1729934952162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8596de2fa9a45918eaa2dfebdfb1f8e
+run_name: abundant-turtle-125
+run_uuid: e8596de2fa9a45918eaa2dfebdfb1f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729934922261
+status: 3
+tags: []
+user_id: SKrishnamurthy7
